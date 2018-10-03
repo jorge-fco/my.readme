@@ -25,4 +25,6 @@ The folders architecture for content.
 └── 📁error
 ```
 
+## Plugins
+
 🐦 Twitter — [@jorge_frac](https://twitter.com/jorge_frac)
