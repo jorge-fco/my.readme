@@ -3,18 +3,13 @@ Text description...
 
 ❗️ Revisar la configuración del archivo `.gitignore`
 
-## 🔌 Panel
+### 🔌 Panel
 👨🏻‍🚀 username: 
 
 🔒 password:
 
-## 📦 CMS
-Version — 00.00
 
-## 📚 Framework CSS
-Version — 00.00
-
-## 📁 Architecture
+### 📁 Architecture
 The folders architecture for content.
 
 ```
@@ -24,7 +19,14 @@ The folders architecture for content.
 └── 📁contact
 └── 📁error
 ```
+### Features
+- Multilenguaje
+- MailChimp.
 
-## Plugins
+### 📚 Dcocumentation
+Version — 00.00
+
+### Plugins
+- Lazysizes
 
 🐦 Twitter — [@jorge_frac](https://twitter.com/jorge_frac)
